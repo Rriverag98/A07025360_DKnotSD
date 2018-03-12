@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: 399afed6714e64548adecc0d2e5d5cbc
+timeCreated: 1520183329
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DKIdle_0
+    21300002: DKIdle_1
+    21300004: DKIdle_2
+    21300006: DKIdle_3
+    21300008: DKIdle_4
+    21300010: DKIdle_5
+    21300012: DKIdle_6
+    21300014: DKIdle_7
+    21300016: DKIdle_8
+    21300018: DKIdle_9
+    21300020: DKIdle_10
+    21300022: DKIdle_11
+    21300024: DKIdle_12
+    21300026: DKIdle_13
+    21300028: DKIdle_14
+    21300030: DKIdle_15
+    21300032: DKIdle_16
+    21300034: DKIdle_17
+    21300036: DKIdle_18
+    21300038: DKIdle_19
+    21300040: DKIdle_20
+    21300042: DKIdle_21
+    21300044: DKIdle_22
+    21300046: DKIdle_23
+    21300048: DKIdle_24
+    21300050: DKIdle_25
+    21300052: DKIdle_26
+    21300054: DKIdle_27
+    21300056: DKIdle_28
+    21300058: DKIdle_29
+    21300060: DKIdle_30
+    21300062: DKIdle_31
+    21300064: DKIdle_32
+    21300066: DKIdle_33
+    21300068: DKIdle_34
+    21300070: DKIdle_35
+    21300072: DKIdle_36
+    21300074: DKIdle_37
+    21300076: DKIdle_38
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DKIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18.5, y: 18}
+        - {x: -18.5, y: -7}
+        - {x: -15.5, y: -18}
+        - {x: 8.5, y: -18}
+        - {x: 11.5, y: -14}
+        - {x: 18.5, y: 9}
+        - {x: 18.5, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 50
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -17.5, y: 18}
+        - {x: -17.5, y: -5}
+        - {x: -12.5, y: -18}
+        - {x: 11.5, y: -18}
+        - {x: 17.5, y: -4}
+        - {x: 17.5, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 17}
+        - {x: 13, y: 18}
+        - {x: -9, y: 18}
+        - {x: -16, y: 15}
+        - {x: -16, y: -5}
+        - {x: -13, y: -18}
+        - {x: 9, y: -18}
+        - {x: 12, y: -12}
+        - {x: 15, y: 1}
+        - {x: 16, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 50
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 18.5}
+        - {x: -11.5, y: 12.5}
+        - {x: -11.5, y: -7.5}
+        - {x: -9.5, y: -18.5}
+        - {x: 11.5, y: -18.5}
+        - {x: 11.5, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 50
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 18.5}
+        - {x: -11, y: 14.5}
+        - {x: -11, y: -12.5}
+        - {x: -10, y: -18.5}
+        - {x: 10, y: -18.5}
+        - {x: 11, y: -16.5}
+        - {x: 11, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 50
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 18.5}
+        - {x: -11, y: 17.5}
+        - {x: -11, y: -18.5}
+        - {x: 9, y: -18.5}
+        - {x: 11, y: -16.5}
+        - {x: 11, y: 17.5}
+        - {x: 9, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 50
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 18.5}
+        - {x: -8, y: 18.5}
+        - {x: -10, y: 17.5}
+        - {x: -11, y: 16.5}
+        - {x: -11, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 11, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 50
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11.5, y: -13.5}
+        - {x: -9.5, y: -18.5}
+        - {x: 11.5, y: -18.5}
+        - {x: 11.5, y: 18.5}
+        - {x: -11.5, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 50
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: 18.5}
+        - {x: -12, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 12, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 50
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: 18.5}
+        - {x: -19, y: -12.5}
+        - {x: -17, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 16, y: -14.5}
+        - {x: 19, y: 6.5}
+        - {x: 19, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 50
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -23, y: 18.5}
+        - {x: -23, y: -5.5}
+        - {x: -18, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 23, y: -1.5}
+        - {x: 23, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 51
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1.5, y: 18.5}
+        - {x: 0.5, y: 17.5}
+        - {x: -3.5, y: 18.5}
+        - {x: -21.5, y: 18.5}
+        - {x: -21.5, y: 5.5}
+        - {x: -11.5, y: -18.5}
+        - {x: 11.5, y: -18.5}
+        - {x: 21.5, y: -0.5}
+        - {x: 21.5, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_12
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 50
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -20, y: 18.5}
+        - {x: -20, y: 7.5}
+        - {x: -18, y: -1.5}
+        - {x: -14, y: -18.5}
+        - {x: 15, y: -18.5}
+        - {x: 20, y: 4.5}
+        - {x: 20, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 50
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: 7.5}
+        - {x: -17.5, y: -3.5}
+        - {x: -11.5, y: -18.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 19.5, y: 7.5}
+        - {x: 19.5, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 50
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -17.5, y: 19}
+        - {x: -17.5, y: -11}
+        - {x: -11.5, y: -19}
+        - {x: 5.5, y: -19}
+        - {x: 8.5, y: -18}
+        - {x: 17.5, y: 7}
+        - {x: 17.5, y: 19}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_15
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 50
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7.5, y: 19}
+        - {x: -1.5, y: 17}
+        - {x: -5.5, y: 12}
+        - {x: -5.5, y: 8}
+        - {x: -7.5, y: 7}
+        - {x: -5.5, y: 8}
+        - {x: -5.5, y: 16}
+        - {x: -8.5, y: 20}
+        - {x: -16.5, y: 20}
+        - {x: -16.5, y: -12}
+        - {x: -15.5, y: -20}
+        - {x: 6.5, y: -20}
+        - {x: 14.5, y: 1}
+        - {x: 16.5, y: 7}
+        - {x: 16.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_16
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 50
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 18}
+        - {x: 2, y: 20}
+        - {x: -13, y: 20}
+        - {x: -17, y: 10}
+        - {x: -17, y: -11}
+        - {x: -16, y: -20}
+        - {x: 9, y: -20}
+        - {x: 17, y: 2}
+        - {x: 17, y: 18}
+      - - {x: -3, y: 9}
+        - {x: -5, y: 12}
+        - {x: -11, y: 4}
+        - {x: -13, y: 0}
+        - {x: -12, y: -1}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_17
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 50
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10.5, y: 20}
+        - {x: -16.5, y: 14}
+        - {x: -16.5, y: -20}
+        - {x: 6.5, y: -20}
+        - {x: 16.5, y: -3}
+        - {x: 16.5, y: 16}
+        - {x: 9.5, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_18
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 49
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 20.5}
+        - {x: -16, y: -14.5}
+        - {x: -14, y: -20.5}
+        - {x: 7, y: -20.5}
+        - {x: 16, y: 7.5}
+        - {x: 16, y: 14.5}
+        - {x: 1, y: 20.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 49
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: -2.5}
+        - {x: -14.5, y: -15.5}
+        - {x: -12.5, y: -19.5}
+        - {x: 7.5, y: -19.5}
+        - {x: 16.5, y: 0.5}
+        - {x: 16.5, y: 16.5}
+        - {x: 5.5, y: 19.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_20
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 50
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -17, y: 18.5}
+        - {x: -17, y: 6.5}
+        - {x: -13, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 17, y: -9.5}
+        - {x: 17, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_21
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 50
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -17.5, y: 18}
+        - {x: -17.5, y: -8}
+        - {x: -12.5, y: -18}
+        - {x: 10.5, y: -18}
+        - {x: 12.5, y: -13}
+        - {x: 17.5, y: 5}
+        - {x: 17.5, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8.5, y: 18.5}
+        - {x: -16.5, y: 18.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -13.5, y: -18.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 15.5, y: 0.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 16.5, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -17, y: 18.5}
+        - {x: -17, y: -2.5}
+        - {x: -13, y: -16.5}
+        - {x: -12, y: -18.5}
+        - {x: 6, y: -18.5}
+        - {x: 17, y: -14.5}
+        - {x: 17, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 19}
+        - {x: -4, y: 19}
+        - {x: -6, y: 13}
+        - {x: -6, y: 11}
+        - {x: -6, y: 16}
+        - {x: -8, y: 19}
+        - {x: -17, y: 19}
+        - {x: -17, y: -7}
+        - {x: -15, y: -18}
+        - {x: -13, y: -19}
+        - {x: 6, y: -19}
+        - {x: 9, y: -15}
+        - {x: 17, y: -4}
+        - {x: 17, y: 18}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 18.5}
+        - {x: -17, y: 18.5}
+        - {x: -17, y: -18.5}
+        - {x: 7, y: -18.5}
+        - {x: 12, y: -15.5}
+        - {x: 17, y: 3.5}
+        - {x: 17, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 18.5}
+        - {x: -15, y: -11.5}
+        - {x: -13, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 15, y: -15.5}
+        - {x: 15, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -17, y: 16.5}
+        - {x: -17, y: -11.5}
+        - {x: -15, y: -16.5}
+        - {x: 5, y: -16.5}
+        - {x: 17, y: -6.5}
+        - {x: 17, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_28
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 5}
+        - {x: 9, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10, y: 17}
+        - {x: -14, y: 17}
+        - {x: -14, y: -17}
+        - {x: 13, y: -17}
+        - {x: 14, y: -16}
+        - {x: 14, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14.5, y: 17}
+        - {x: -14.5, y: -15}
+        - {x: -13.5, y: -17}
+        - {x: 11.5, y: -17}
+        - {x: 14.5, y: -16}
+        - {x: 14.5, y: 14}
+        - {x: 10.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14.5, y: 17}
+        - {x: -14.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 14.5, y: 6}
+        - {x: 11.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_32
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 17.5}
+        - {x: -15, y: -17.5}
+        - {x: 15, y: -17.5}
+        - {x: 15, y: 12.5}
+        - {x: 11, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15, y: 17.5}
+        - {x: -15, y: -17.5}
+        - {x: 15, y: -17.5}
+        - {x: 15, y: 13.5}
+        - {x: 12, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_34
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14.5, y: 17.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 14.5, y: -17.5}
+        - {x: 14.5, y: 15.5}
+        - {x: 13.5, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_35
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9.5, y: 19}
+        - {x: -10.5, y: 18}
+        - {x: -14.5, y: 15}
+        - {x: -14.5, y: -19}
+        - {x: 12.5, y: -19}
+        - {x: 14.5, y: -18}
+        - {x: 14.5, y: 17}
+        - {x: 10.5, y: 19}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12.5, y: 19}
+        - {x: -11.5, y: 19}
+        - {x: -14.5, y: 18}
+        - {x: -14.5, y: -19}
+        - {x: 13.5, y: -19}
+        - {x: 14.5, y: -18}
+        - {x: 14.5, y: 10}
+        - {x: 13.5, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12.5, y: 18.5}
+        - {x: -14.5, y: 16.5}
+        - {x: -14.5, y: -17.5}
+        - {x: -13.5, y: -18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 14.5, y: 12.5}
+        - {x: 13.5, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DKIdle_38
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14.5, y: 18.5}
+        - {x: -14.5, y: -18.5}
+        - {x: 13.5, y: -18.5}
+        - {x: 14.5, y: -16.5}
+        - {x: 14.5, y: 11.5}
+        - {x: 12.5, y: 18.5}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
